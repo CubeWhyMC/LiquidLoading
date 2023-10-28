@@ -1,0 +1,8 @@
+{
+  "entrypoints": [
+    "top.lunarclient.ModEntry"
+  ],
+  "mixinConfigs": [
+    "liquidloading.mixins.json"
+  ]
+}
